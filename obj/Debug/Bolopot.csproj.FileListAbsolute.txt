@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\bin\Debug\Bolopot.exe.config
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\bin\Debug\Bolopot.exe
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\bin\Debug\Bolopot.pdb
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.csproj.GenerateResource.Cache
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.exe
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.pdb
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Login.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Venda.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Camadas.AvisoCadastro.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Camadas.CadastrarCliente.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Camadas.Form1.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Camadas.SistemaBolopot.resources
+C:\Users\Rafael\Desktop\Rafael\Faculdade\Almir\Trabalho 30-06\Bolopot\Bolopot\obj\Debug\Bolopot.Camadas.ConsultarVendas.resources
